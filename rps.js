@@ -70,6 +70,8 @@ reader.question("Press 1 for Rock, 2 for Scissors, or 3 for Paper", function(inp
     console.log(`Computer chooses ${computerChoice}`);
 
     console.log(determineWinner(humanChoice, computerChoice));
+
+    console.log("Test");
     
     
     
